@@ -1,9 +1,10 @@
 import "./App.css";
+import Basic from "./Basic";
 
 function App() {
   return (
     <div>
-      Hello from <a href="https://www.lereacteur.io">Le Reacteur !</a>
+      <Basic />
     </div>
   );
 }
